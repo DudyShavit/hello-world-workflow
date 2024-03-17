@@ -4,5 +4,4 @@
 Slava Branch to push and pull
 New Comment
 
-Lidor
-Lidor student
+Lidor student kiryat malakhi
